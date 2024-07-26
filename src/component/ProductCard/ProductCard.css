@@ -1,0 +1,19 @@
+.product-card{
+    margin: 10px;
+    width: 300px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0 10px 16px rgba(0, 0, 0, 0.3   );
+}
+.product-img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 10px auto;
+}
+.product-name{
+    text-align: center;
+}
+.product-card p{
+    font-size: 15px;
+}
